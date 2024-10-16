@@ -1,4 +1,4 @@
-package ZZLambas.dominio;
+package ZZALambas.dominio;
 
 public class Anime {
     private String title;

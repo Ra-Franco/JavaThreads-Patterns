@@ -1,7 +1,7 @@
-package ZZLambas.tst;
+package ZZALambas.tst;
 
-import ZZLambas.dominio.Anime;
-import ZZLambas.service.AnimeComparators;
+import ZZALambas.dominio.Anime;
+import ZZALambas.service.AnimeComparators;
 
 import java.util.ArrayList;
 import java.util.List;

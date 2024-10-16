@@ -1,11 +1,9 @@
-package ZZLambas.tst;
+package ZZALambas.tst;
 
-import ZZLambas.dominio.Anime;
-import ZZLambas.service.AnimeComparators;
+import ZZALambas.dominio.Anime;
+import ZZALambas.service.AnimeComparators;
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class MethodReferenceTest01 {

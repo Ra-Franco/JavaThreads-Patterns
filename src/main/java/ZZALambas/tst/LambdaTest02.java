@@ -1,4 +1,4 @@
-package ZZLambas.tst;
+package ZZALambas.tst;
 
 import java.util.ArrayList;
 import java.util.List;

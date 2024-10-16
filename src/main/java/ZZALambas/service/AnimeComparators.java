@@ -1,6 +1,6 @@
-package ZZLambas.service;
+package ZZALambas.service;
 
-import ZZLambas.dominio.Anime;
+import ZZALambas.dominio.Anime;
 
 public class AnimeComparators {
     public static int compareByTitle(Anime a1, Anime a2){
